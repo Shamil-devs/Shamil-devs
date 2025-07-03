@@ -34,33 +34,26 @@
 
 - 💙 `Dart + Flutter` → Cross-platform mobile apps  
 - 🤖 `AI Agents` → Intelligent automation and research workflows  
-- ☁️ `Microservices & Hosting` → Scalable deployment architecture
+- ☁️ `Microservices & Cloud computing` → Scalable deployment architecture
 
 ---
-
-### 💡 Animated Typing Header
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Shamil!;Developer+%7C+Learner+%7C+Builder;I+build+what+i+learn;&center=true&width=500&height=45">
-</p>
-
----
-
 ### 📊 GitHub Insights
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shamil-devs&show_icons=true&theme=tokyonight&hide_border=true" alt="Shamil's GitHub stats" /><br>
-    <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shamil-devs&theme=tokyonight" />
-
-
-<p align="left">
-    <br>
-  <br>
-  <img src="https://streak-stats.demolab.com/?user=Shamil-devs&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-</p>
-
----
+<table>
+  <tr>
+    <td align="left">
+      <img src="https://github-readme-stats.vercel.app/api?username=Shamil-devs&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td align="right">
+      <img src="https://streak-stats.demolab.com/?user=Shamil-devs&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shamil-devs&theme=tokyonight" alt="Profile Summary" />
+    </td>
+  </tr>
+</table>
 
 ### 🛠️ Tools & Tech
 
@@ -106,17 +99,28 @@
 </p>
 
 ---
+### 🤝 Let me know if you need something
 
-### 🌐 Connect with Me
+<p align="center">
+<!--   <a href="https://www.instagram.com/your-handle" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" />
+  </a> -->
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/muhammed-shamil-b48a852a0" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/+917356077250" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="40" />
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/your-handle)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white)](https://x.com/your-handle)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=flat&logo=behance&logoColor=white)](https://www.behance.net/your-profile)
 
 ---
 
 ### 💬 Motto
 > *Don't just learn to know —  learn to **build***
-
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Shamil!;Developer+%7C+Learner+%7C+Builder;I+build+what+i+learn;&center=true&width=500&height=45">
+</p>
