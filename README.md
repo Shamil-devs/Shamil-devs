@@ -27,7 +27,7 @@
   Learning and contributing to cross-platform app development
 
 - 👕 **Liore Loid** – *T-shirt eCommerce App*  
-  Django-powered store, tailored for a niche client requirement
+  Building a Django-powered store for a client
 
 ---
 
